@@ -1,14 +1,13 @@
-# Hi, I'm Radu Antonio Valentin! 👋
-## 🚀 About Me
-Currently I'm doing a bachelor's degree in computer science and engineering at University of bergamo. 
+## Hi, I'm Radu Antonio Valentin! 👋  
+I'm a Computer Science and Engineering student at the University of Bergamo, passionate about web development, AI, and building impactful projects. 🚀
 
 ---
 
-### 🔤 Linguaggi di Programmazione
+### 🔤 Programming Languages
 
 ![My Skills](https://skillicons.dev/icons?i=c,java,javascript,typescript,python,php,r&theme=dark)
 
-### 🧱 Framework e Librerie
+### 🧱 Framework and Libraries
 
 ![My Skills](https://skillicons.dev/icons?i=react,next,django,flutter,spring,jquery&theme=dark)
 
@@ -16,7 +15,7 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,cassandra&theme=dark)
 
-### ☁️ DevOps e Altri Strumenti
+### ☁️ DevOps and other tools
 
 ![My Skills](https://skillicons.dev/icons?i=git,docker,linux,aws,html,css,tailwind,uml&theme=dark)
   
@@ -24,7 +23,7 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 
 ## 📈 Stats 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zodiacapricorn&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zodiacapricorn&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zodiacapricorn&layout=compact&theme=dracula&hide=html,css)
 
-> “:)” 
+> “Always curious, always learning. :)”
