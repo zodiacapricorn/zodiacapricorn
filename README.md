@@ -24,6 +24,5 @@ I'm a Computer Science and Engineering student at the University of Bergamo, pas
 ## 📈 Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zodiacapricorn&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zodiacapricorn&layout=compact&theme=dracula&hide=html,css)
 
 > “Always curious, always learning. :)”
